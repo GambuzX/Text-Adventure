@@ -4,4 +4,4 @@ First Unity project.
 
 Pokemon inspired text adventure.
 
-Download the zip file to play!
+Download the rar file to play!
